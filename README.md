@@ -1,4 +1,7 @@
 # SphereDA
+<div align="center">
+  <img src="docs/images/sphereda_with_name.png" alt="SphereDA Logo" width="300"/>
+</div>
 ## Introduction
 
 SphereDA is a neural network-based data assimilation system designed to enhance the initialization of numerical weather prediction models. The framework employs deep learning techniques to efficiently combine observational data with model first-guess fields, creating optimized initial conditions for atmospheric forecasting.
