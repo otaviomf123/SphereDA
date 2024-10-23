@@ -1,6 +1,6 @@
 # SphereDA
 <div align="center">
-  <img src="docs/images/sphereda_with_name.png" alt="SphereDA Logo" width="300"/>
+  <img src="docs/images/sphereda_logo_with_name.png" alt="SphereDA Logo" width="300"/>
 </div>
 
 
