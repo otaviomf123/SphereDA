@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "sphereda"
+version = "0.1.0"
+description = "Project to combine observations and model data for estimating atmospheric model initialization variables"
+authors = ["Otavio M. Feitosa <otaviomf123@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^2.1.2"
+pandas = "^2.2.3"
+xarray = "^2024.9.0"
+pybufrkit = "^0.2.22"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

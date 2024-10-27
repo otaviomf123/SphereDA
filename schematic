@@ -1,0 +1,30 @@
+sphereDA/
+│
+├── pyproject.toml
+├── README.md
+│
+├── src/
+│   └── sphereDA/
+│       ├── __init__.py
+│       ├── main.py
+│       ├── config.py
+│       ├── utils.py
+│       ├── data/
+│       │   ├── __init__.py
+│       │   ├── download_surface_data.py
+│       │   └── process_surface_data.py
+│       ├── models/
+│       │   ├── __init__.py
+│       │   └── ...
+│       └── analysis/
+│           ├── __init__.py
+│           └── .....
+│
+├── tests/
+│   ├── __init__.py
+│   ├── test_data_download.py
+│   ├── test_data_process.py
+│   └── test_surface_model.py
+│
+└── docs/
+    └── README.md
